@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260" role="img" aria-labelledby="title desc"><title id="title">gkdata.io</title><desc id="desc">Security reviews and. websites built with care.</desc>
+<rect x=".5" y=".5" width="399" height="259" rx="0" fill="#090F12" stroke="#314146"/>
+<path d="M0 0H58V4H0Z" fill="#D4FC51"/>
+<text x="24" y="33" fill="#D4FC51" font-family="monospace" font-size="11" font-weight="400">03 / INDEPENDENT STUDIO</text>
+<path d="M300 61l-22 24 22 24m47-48 22 24-22 24m-16-57-17 68" fill="none" stroke="#D4FC51" stroke-width="2"/>
+<text x="24" y="130" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">gkdata.io</text>
+<text x="25" y="161" fill="#98ADA9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400">Security reviews and</text>
+<text x="25" y="181" fill="#98ADA9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400">websites built with care.</text>
+<path d="M24 211H376" fill="none" stroke="#2B3C3F" stroke-width="1"/>
+<text x="25" y="239" fill="#D4FC51" font-family="monospace" font-size="11" font-weight="400">EXPLORE</text>
+<path d="M353 237l11-11m-11 0h11v11" fill="none" stroke="#D4FC51" stroke-width="1.5"/>
+</svg>
