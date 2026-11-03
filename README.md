@@ -21,9 +21,9 @@ Independent security researcher and founder of **GK Data LLC**. I build tools an
 
 A field library for authorized security research: useful tools, methods, checklists, utilities, and MCP resources.
 
-### [misconfig.ai](https://misconfig.ai/) · beta
+### [misconfig.ai](https://misconfig.ai/) · Is your AI setup misconfigured?
 
-An evolving project for authorized exposure review and private evidence history.
+See every file that controls your AI coding agents, what each one tells them to do, which settings put your machine at risk, and whether anything they run is known malware.
 
 ### [gkdata.io](https://gkdata.io/)
 
