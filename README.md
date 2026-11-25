@@ -1,42 +1,30 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/profile-hero-mobile-static.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-hero-static.png">
-  <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.gif">
-  <img src="assets/profile-hero.gif" alt="GKData — Garrett Kohlrusch. Web security, bug bounty, and toolmaking." width="1280">
-</picture>
+# Garrett Kohlrusch
 
-# Garrett Kohlrusch · GKData
+I test web apps and the APIs behind them. I founded GK Data, an independent security practice in Blaine, Minnesota.
 
-Independent security researcher and founder of **GK Data LLC**. I build tools and reference material for web security research, and run independent web services.
-
-## In the field
-
-<p align="center">
-  <a href="https://vulns.co/"><img src="assets/project-vulns.svg" alt="Explore vulns.co" width="260"></a>
-  <a href="https://misconfig.ai/"><img src="assets/project-misconfig.svg" alt="Explore misconfig.ai beta" width="260"></a>
-  <a href="https://gkdata.io/"><img src="assets/project-gkdata.svg" alt="Explore gkdata.io" width="260"></a>
+<p>
+  <a href="https://gkdata.io/research/nasa-globe-observer-stored-xss/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/globe-observer-mobile.jpg">
+      <img src="assets/globe-observer.jpg" width="1200" alt="Read the NASA GLOBE Observer case study. Earth at sunrise, photographed by NASA astronaut Matthew Dominick.">
+    </picture>
+  </a>
 </p>
+
+<!-- Cover photograph: https://www.nasa.gov/image-article/sunrise-begins/ -->
+
+A comment I entered in the GLOBE Observer mobile app ran as JavaScript on the public observation page. NASA fixed the bug after I reported it. [Read the case study](https://gkdata.io/research/nasa-globe-observer-stored-xss/).
+
+## Projects
+
+### [misconfig](https://github.com/gkdataio/misconfig)
+
+See which file lets Claude Code or Codex run commands without asking. The check runs locally and shows you the setting to change.
 
 ### [vulns.co](https://vulns.co/)
 
-A field library for authorized security research: useful tools, methods, checklists, utilities, and MCP resources.
+I index public bug bounty reports by root cause and link each one to the original disclosure. You can find the data and diagrams in the [Security Research Library](https://github.com/gkdataio/security-research-library).
 
-### [misconfig.ai](https://misconfig.ai/) · Is your AI setup misconfigured?
+---
 
-See every file that controls your AI coding agents, what each one tells them to do, which settings put your machine at risk, and whether anything they run is known malware.
-
-### [gkdata.io](https://gkdata.io/)
-
-Independent security and web services from GK Data LLC: reviews, builds, redesigns, migrations, and WordPress care.
-
-## Public research
-
-The [**Security Research Library →**](https://github.com/gkdataio/security-research-library) brings together source-backed disclosures, program references, original diagrams, and structured JSON for researchers and builders.
-
-## Small tools, built for the work
-
-- [BB-Header-Manager](https://github.com/gkdataio/BB-Header-Manager) — a lightweight way to identify authorized research traffic.
-- [applyzer](https://github.com/gkdataio/applyzer) — a small web-technology detection utility.
-- [GatePeek](https://github.com/gkdataio/GatePeek) — a compact public utility for reconnaissance workflows.
-
-<sub><a href="https://www.linkedin.com/in/kohlrusch/">LinkedIn</a> · <a href="https://gkdata.io/">gkdata.io</a> · <a href="https://github.com/gkdataio/security-research-library">research library</a> · <a href="assets/profile-hero-static.png">static artwork</a></sub>
+[GK Data](https://gkdata.io/) · [Bugcrowd](https://bugcrowd.com/h/GKData) · [LinkedIn](https://www.linkedin.com/in/kohlrusch/) · [Email me](mailto:garrett@gkdata.io)

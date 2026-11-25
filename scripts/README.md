@@ -1,4 +1,6 @@
-# Profile artwork
+# Archived animated profile artwork
+
+These instructions document the earlier wireframe design. The current GLOBE Observer cover uses an orbital sunrise photographed by NASA astronaut Matthew Dominick. [Original photograph](https://www.nasa.gov/image-article/sunrise-begins/).
 
 The hero is an original, procedural wireframe surface with a moving section and route markers. It is conceptual artwork, not a scan or live telemetry. The project cards are original SVGs with no remote dependencies.
 
