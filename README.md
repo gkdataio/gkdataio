@@ -42,4 +42,4 @@ I test web apps and APIs at GK Data, the practice I founded in Blaine, Minnesota
 
 ---
 
-[Work with me](https://gkdata.io/contact/) · [Published research](https://gkdata.io/research/) · [Bugcrowd](https://bugcrowd.com/h/GKData) · [LinkedIn](https://www.linkedin.com/in/kohlrusch/) · [Email me](mailto:garrett@gkdata.io)
+[Work with me](https://gkdata.io/contact/) · [Published research](https://gkdata.io/research/) · [Bugcrowd](https://bugcrowd.com/h/GKData) · [LinkedIn](https://www.linkedin.com/in/kohlrusch/)
